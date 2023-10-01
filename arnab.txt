@@ -4,8 +4,5 @@ Branch b2 change.
 Change for b1 branch.
 Another change
 
-change1
-change2
-change1
-change2
+
 
